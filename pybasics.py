@@ -1,13 +1,13 @@
 #!/opt/homebrew/bin/python3
 
 # For loop example
-for i in range(3):
+for i in range(2):
     print("Range from for loop: ", i)
 
 
 # While loop example
 count = 0
-while count < 5:
+while count < 2:
     print("Range from while loop: ", count)
     count += 1
 
